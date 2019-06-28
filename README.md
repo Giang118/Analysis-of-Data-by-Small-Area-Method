@@ -1,0 +1,2 @@
+# Analysis-of-Data-by-Small-Area-Method
+Estimates of two important indicators: the mean household equivalised income and the headcount ratio (HCR).  Horvitz and Thompson Estimator – HT – (Direct Estimator)  Generalised Regression –GREG – Estimator (SAE)  Empirical Best Linear Unbiased Prediction – EBLUP – (SAE)  Fay Herriot - FH-EBLUP / Area EBLUP (SAE) The data are generated from the Eu-Silc data for Tuscany.
